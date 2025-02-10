@@ -71,6 +71,9 @@ button{
     #goku{
         width: 220px;
     }
+    #lh{
+        font-size: 16px;
+    }
 }
 
 button:hover {
@@ -83,7 +86,7 @@ button:hover {
 }
 
 .header{
-    background: url(header.jpg);
+    background: url(/images/header.jpg);
 }
 .header h1{
     font-size: 50px;
@@ -97,4 +100,10 @@ button:hover {
 }
 #lh{
     line-height: 1.6;
+}
+.szurke{
+    background-color: rgba(34, 34, 34, 0.781);
+}
+h3{
+    font-size: 50px;
 }
