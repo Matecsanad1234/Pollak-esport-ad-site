@@ -107,3 +107,12 @@ button:hover {
 h3{
     font-size: 50px;
 }
+tr{
+    padding: 30px;
+}
+.footer{
+    background-color: rgb(71, 71, 71);
+    height: 400p;
+    display: grid;
+    text-align: center;
+}
