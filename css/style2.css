@@ -58,7 +58,21 @@ width: 100%;
 
 
 .iframa{
-
+    border-radius: 15px;
     border: 10px #A68181 solid;
+    height: 400px;
+
+}
+
+iframe{
+    height: 400px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.footer{
+
+    background-color: #927A7A;
+    height: 130px;
 
 }
