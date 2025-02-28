@@ -1,1 +1,63 @@
+            <h1>Pollak E-Sport Rendezvény Szabályzata 🎮🏆</h1>
+            <p id="lh">
+
+             Üdvözöljük a Csongrád-Csanád megyei iskolai E-Sport verseny résztvevőit! Az alábbi szabályok célja, <br> hogy mindenki tisztességesen és élvezettel vegyen részt a versenyben. 🌟 <br>
+                
+             A verseny kizárólag <b id="colorful">Csongrád-Csanád megyei</b>  iskolák tanulóinak szól, és csak <b id="colorful">7. és 8. évfolyamos <br> diákok</b>  nevezhetnek. 📚 A célunk, hogy lehetőséget biztosítsunk a fiataloknak a tehetségük <br> megmutatására és a közösségi élmények szerzésére. <br>
+                
+             A versenyek <b id="colorful">online és offline</b>  formátumban is zajlanak. 🌍 A pontos versenyszámok és időpontok a <br> szervezők által meghatározottak és előzetesen közzétételre kerülnek. <br>
+                
+             A versenyek során minden résztvevő köteles tiszteletben tartani a sportszerűséget és egymás <br> munkáját. 🤝 Bármilyen csalás, trükközés vagy tisztességtelen magatartás szankcionálásra kerül, és <br> kizárást vonhat maga után. <br>
+                
+             A játékok és eszközök, amelyekkel a verseny zajlik, előre meghatározásra kerülnek, és minden <br> résztvevőnek egyenlő esélyt biztosítanak. 🎮 Az egyéni és csapatversenyek során is a legjobbakat <br> fogjuk díjazni! <br>
+                
+             Minden résztvevő számára biztosítunk egy <b id="colorful">szórakoztató és biztonságos környezetet</b> . 🎉 A <br> rendezvény végén a nyertesek értékes díjakban részesülnek. 🏅 <br>
+                
+             A rendezvényre történő regisztrációk előtt, kérjük, minden diák szülei írják alá a <b id="colorful">hozzájáruló <br> nyilatkozatot</b> . 📑 A részvétel feltétele a rendezvény szabályainak elfogadása. <br>
+                
+             Tartsuk szem előtt, hogy a legfontosabb a <b id="colorful">szórakozás</b> , a <b id="colorful">tanulás</b>  és a <b id="colorful">barátságok építése</b> ! 🏆<br>
+                
+             Mindenkinek sok sikert kívánunk! ✨
+            </p>
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+        <h1 id="colorful">Fordulók</h1>   
+
+        <p><strong>1. Előselejtező – A Nagy Kezdet</strong> 🎮 A rendezvény első lépéseként minden csapatnak részt kell vennie az előselejtezőkön. Ezek a gyors, intenzív küzdelmek segítenek meghatározni, mely csapatok juthatnak tovább a következő szakaszba. Az előselejtezők során minden csapat 3 játékot játszik, különböző műfajokban, hogy minél több képességük kiemelkedhessen. A legjobb 8 csapat kerül a főtáblára, ahol már a komolyabb stratégiák és felkészültség lesz a kulcs.</p>
+
+        <p><strong>2. Csoportkör – A Stratégia Kialakítása</strong> 🧠 A főtáblára jutott csapatok 4 csoportba kerülnek, ahol körmérkőzéseket játszanak. Minden csapatnak 3 mérkőzést kell lejátszania a csoporton belül, és a legjobb 2 csapat jut tovább a kieséses szakaszba. A csoportkör izgalmas taktikai döntéseket igényel, hiszen minden csapatnak figyelembe kell vennie a másik csapat erősségeit és gyengeségeit, miközben próbálják maximalizálni saját teljesítményüket.</p>
+
+        <p><strong>3. Negyeddöntők – Az Igazi Küzdelem</strong> ⚔️ A csoportkör után következnek a negyeddöntők, ahol már nem lehet hibázni! A legjobb 8 csapat most már egyenes kieséses alapon küzd tovább, és csak az maradhat versenyben, aki a legjobb taktikával és precizitással játszik. Itt már a csapatoknak nemcsak a játéktudásuk, hanem a pszichikai felkészültségük is nagy szerepet kap. A győztesek jutnak tovább a döntőig.</p>
+
+        <p><strong>4. Elődöntők – A Feszültség Tetőfokon</strong> ⏳ Az elődöntőkben már minden csapat a legjobb formáját hozza. Mivel itt már csak 4 csapat maradt versenyben, a feszültség hatalmas, és minden egyes döntés kulcsfontosságú lehet a végső győzelemhez. Az elődöntőkben a csapatoknak szoros mérkőzéseken kell megküzdeniük a továbbjutásért. A győztesek a nagy döntőben mérhetik össze tudásukat, hogy kiderüljön, melyik csapat nyeri el a legjobb esport csapat címét.</p>
+
+        <p><strong>5. Döntő – A Csúcs</strong> 🏆 A döntő a rendezvény csúcspontja, ahol a két legjobb csapat egy végső, mindent eldöntő mérkőzésen találkozik. Ez a nap, amikor minden döntés, minden lépés és minden másodperc számít. A csapatok a legnagyobb összpontosítással és taktikai zsenialitással lépnek pályára, hogy megszerezzék az első helyet és a hozzá tartozó nyereményeket. A döntő az egész rendezvény leglátványosabb és legizgalmasabb pillanata, amely minden résztvevő számára felejthetetlen élmény marad.</p>
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+        <p><strong>1. Játékosok</strong> 🎮 A verseny legfontosabb résztvevői a játékosok, akik a legjobb tudásukat és képességeiket hozzák a csapatuk számára. A játékosoknak nemcsak a játéktudásuk, hanem a csapatmunkára való képességük is fontos, hiszen csak együttműködve lehet elérni a győzelmet.</p>
+
+        <p><strong>2. Edzők</strong> 🧑‍🏫 Az edzők a csapatok vezetői, akik segítenek a játékosoknak a felkészülésben és a taktikai döntésekben. Az edzőknek nemcsak a játéktudásuk, hanem a csapat motiválására való képességük is fontos, hiszen a versenyek során a csapatoknak szükségük van a pozitív hozzáállásra és a kitartásra.</p>
+
+        <p><strong>3. Szurkolók</strong> 📣 A szurkolók a versenyek leglelkesebb résztvevői, akik a lelátóról buzdítják a csapatokat. A szurkolók fontos szerepet játszanak a csapatok motiválásában és a verseny hangulatának fokozásában. A szurkolók a versenyek alatt a csapatok színeiben szurkolhatnak, és a legjobb teljesítményt nyújtó csapatokat díjazhatják.</p>
+
+        <p><strong>4. Szervezők</strong> 📋 A szervezők a versenyek lebonyolításáért és a résztvevők koordinálás
+        <br>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+        <p>© 2025 Pollak E-Sport. Minden jog fenntartva.</p>
+        <p>Köszi! Szia!</p>
+
 
