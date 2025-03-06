@@ -68,12 +68,27 @@ button{
         gap: 30px;
         text-align: justify;
     }
-    #goku{
-        width: 220px;
+    .buttons button{
+        margin: 5px;
     }
     #lh{
         font-size: 16px;
     }
+    body{
+        max-width: 500px;
+    }
+    section{
+        max-width: 500px;
+    }
+    #rounds{
+        max-width: 500px;
+    }
+    #people p {
+        max-width: 300px;
+    }
+    #people img{
+        max-width: 300px
+    };
 }
 
 button:hover {
@@ -115,4 +130,7 @@ tr{
     height: 400p;
     display: grid;
     text-align: center;
+}
+#people{
+    background-color: rgba(34, 34, 34, 0.781);
 }
