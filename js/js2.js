@@ -1,8 +1,24 @@
-
-function fordulo(){
-
-document.getElementById("1").style.display = "block";
-document.getElementById("2").style.display = "none";
-document.getElementById("3").style.display = "none";
-
-}
+function myFunction() {
+    var x = document.getElementById("mydiv");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  function myFunction2() {
+    var x = document.getElementById("mydiv2");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  function myFunction3() {
+    var x = document.getElementById("mydiv");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
